@@ -21,4 +21,4 @@
 
 
 
-[![DBollella's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DBollella)](https://github.com/DBollella/github-readme-stats)
+[![DBollella's wakatime stats](https://github-readme-stats.vercel.app/api/DBollella?username=DBollella)](https://github.com/DBollella/github-readme-stats)
