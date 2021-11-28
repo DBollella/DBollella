@@ -19,10 +19,7 @@
 
 [![DBollella's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBollella)](https://github.com/DBollella/github-readme-stats)
 
-[![DBollella's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sbollella&layout=compact)](https://github.com/DBollella/github-readme-stats)
+[![DBollella's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbollella&layout=compact)](https://github.com/DBollella/github-readme-stats)
 
 
-
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
